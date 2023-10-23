@@ -1,0 +1,33 @@
+body {
+    background-color: #212121;
+    color: #fff;
+  }
+
+  .center {
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+
+  #banner{
+    text-decoration: underline;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+  #clock {
+    font-size: 40px;
+    background-color: white;
+    padding: 20px 50px;
+    margin-top: 10px;
+    border-radius: 10px;
+    color: black;
+  }
+  .foot {
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+ }
+  
