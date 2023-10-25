@@ -1,0 +1,39 @@
+      table,
+      th,
+      td {
+        border: 1px solid #e7e7e7;
+      }
+      .project{
+        color: #e7e7e7;
+        text-align: center;
+        font-size: 22px;
+        padding-top: 10px;
+        height: 100vh;
+        background-image: url(keyboard1.jpg);
+        background-position: center;
+        background-size: cover;
+
+      }
+      #insert {
+        color: #ded1d1;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+        font-size: 30px;
+        height: 60vh;
+      }
+
+      .color {
+        color: rgb(237, 240, 242);
+        display: flex;
+        flex-direction: row;
+        font-size: 25px;
+      }
+
+      .head{
+        color: rgb(53, 175, 29);
+        text-decoration: none;
+        font-size: 20px;
+      }
