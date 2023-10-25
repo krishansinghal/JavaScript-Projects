@@ -1,0 +1,46 @@
+.container{
+    height: 100vh;
+    background-image: url('color3.jpg');
+    background-size: cover;
+    color: whitesmoke;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+   
+}
+
+button{
+    margin: 10px;
+    padding: 8px 20px;
+    color: white;
+    font-weight: 700;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+#start{
+    background-color: green;
+}
+#stop{
+    background-color: red;
+}
+.btn{
+    margin-bottom: 50px;
+}
+.colordiv{
+    border: 3px solid white;
+    font-weight: 700;
+    color: black;
+    width: 300px;
+    height: 200px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    
+}
+.displaycolor{
+    font-size: 20px;
+    
+}
